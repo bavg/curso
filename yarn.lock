@@ -128,6 +128,7 @@
     "@babel/helper-annotate-as-pure" "^7.10.4"
     regexpu-core "^4.7.1"
 
+@babel/runtime@7.0.0-beta.47
 "@babel/helper-define-map@^7.10.4":
   version "7.10.5"
   resolved "https://registry.yarnpkg.com/@babel/helper-define-map/-/helper-define-map-7.10.5.tgz#b53c10db78a640800152692b13393147acb9bb30"
